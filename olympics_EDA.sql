@@ -1,4 +1,5 @@
 # OLYMPICS EDA PROJECT 
+# Link to dataset on Kaggle: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results 
 
 -- 1) How many olympics games have been held?
 select count(distinct Games) as total_olympic_games
